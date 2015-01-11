@@ -1,0 +1,13 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=5085
+
+The Boston key mapping is particularly useful for day-to-day editing on code files. If you have other key mappings set up for the function keys they may not be compatible with this plugin. See below for a list of command mappings:
+
+<F1> thru <F8>: go to buffer 1-8.
+<F11>j: set up a file comparison environment for two Java files.
+<F11>s: set up a file comparison environment for two Javascript files.
+<F11>h: set up a file comparison environment for two HTML files.
+<F11>c: set up a file comparison environment for two CSS files.
+<F12>j: auto-format a Java file.
+<F12>s: auto-format a Javascript file.
+<F12>h: auto-format an HTML file.
+<F12>x: auto-format an XML file.
